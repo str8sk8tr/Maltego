@@ -7,7 +7,7 @@ Maltego is a data mining tool that mines a variety of open-source data resources
 ## Criteria
 Step 1: Logged into Maltego
 
-Step 2: Created a graph by clicking on the top left, “File with the plus sign)
+Step 2: Created a graph by clicking on the top left, “File with the plus sign"
 
 Step 3: Selected e-mail node under Entity Palette
 
@@ -24,3 +24,5 @@ Maltego Community Edition 4.2.8
 
 
 ## Documentation
+![Maltgego - E-mail search](https://user-images.githubusercontent.com/28675258/69105110-5cd30100-0a38-11ea-97b8-d0f392f38a43.PNG)
+![Maltgego - Name search](https://user-images.githubusercontent.com/28675258/69105124-62304b80-0a38-11ea-9651-b60cc7401673.PNG)
