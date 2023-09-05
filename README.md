@@ -1,4 +1,4 @@
-## Project:
+## Project: CharGarGothakon
 Mine data on my own e-mail account
 
 ## Functionality
